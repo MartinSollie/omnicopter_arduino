@@ -1,3 +1,1 @@
-# Høydemåling HC-SR04 I2C
-
-Trenger newPing- og wirebiblioteket. 
+# HC-SR04 distance measurement
